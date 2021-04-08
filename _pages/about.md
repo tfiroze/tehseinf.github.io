@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey there, welcome to my resume"
+title: "Hey there! Welcome to my Resume"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-EDUCATION
-Electronics and Communication Engineering Student
-Vellore Institute of Technology
-8.2 CGPA
 
-SCHOOLING
-THE AMAATRA ACADEMY
 
 A third year Electronics and Communication engineering student at Vellore Institute of Technology 
 who is very passionate about implementing solutions for the software and data sector. 
