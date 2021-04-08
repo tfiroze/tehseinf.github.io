@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* BTech in Electronics And Communication Engineering 8.2 gpa, Vellore Institute of Technology, 2022 (expected)
+* BTech in Electronics And Communication Engineering, Vellore Institute of Technology, 2022 (expected)
+  * **8.2 CGPA**
 * 12th CBSE, The Amaatra Academy, 2018
+  * **84%**
 
 Work experience
 ======
