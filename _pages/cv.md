@@ -16,11 +16,6 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
 * August 2020 - October 2020: Programming Intern
   * Dcent Mass
   * Duties included: Tagging issues
